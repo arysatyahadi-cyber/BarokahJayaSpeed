@@ -1,0 +1,1 @@
+This folder holds assets (css, js, img).
